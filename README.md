@@ -1,6 +1,6 @@
 # APEX1337 Captcha Solver Kanalına Katılın!
 
-![Captcha](https://media.istockphoto.com/id/1165337623/tr/vekt%C3%B6r/recaptcha-simgesi.jpg?s=612x612&w=is&k=20&c=U9d0krm327u8paFwEuW_10psSldQFfzDjDngHNL49-0=)
+![Captcha](https://raw.githubusercontent.com/TrustSolver/tencent-verify.github.io/main/k%C3%BCrt.jpg)
 
 Hızlı ve güvenilir captcha çözümleri ile işlerinizi kolaylaştırın. %100 doğruluk oranı ve uygun fiyatlarla hizmet veriyoruz.
 
